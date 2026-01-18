@@ -1,7 +1,7 @@
 GitHub repositories for Commodore 64 projects.
 
 Members:
-  - Kenneth Christensen ([Commdore64-KEC](https://github.com/Commdore64-KEC) - owner, lead, code and design)
+  - Kenneth Christensen ([Commodore64-KEC](https://github.com/Commodore64-KEC) - owner, lead, code and design)
 
 Commodore officielt site: [https://www.commodore.net](https://www.commodore.net)
 
